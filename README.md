@@ -3,6 +3,7 @@
 # Hello GitHub Actions
 
 _Create and run a GitHub Actions workflow._
+<img width="408" height="408" alt="image" src="https://github.com/user-attachments/assets/0bd68a10-fac3-4d70-a288-a6179fb041f4" />
 
 </header>
 
