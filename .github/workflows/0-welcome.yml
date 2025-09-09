@@ -8,5 +8,3 @@ jobs:
   build:
     name: Post welcome comment
     runs-on: ubuntu-latest
-          to_step: 1
-          branch_name: welcome-workflow
